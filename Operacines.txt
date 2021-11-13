@@ -1,0 +1,2 @@
+[id:1, Producto: Agua Mineral, Cantidad: 500.0, Precio: 5000.0, Marca: Coca-Cola, Origen: Natural, Estante: 1]
+[id:2, Producto: Bebida Azucarada, Cantidad: 500.0, Precio: 6000.0, Marca: Pepsi-Cola, Porcentaje de Azucar: 10.0, Estante: 2]
